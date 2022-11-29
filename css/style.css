@@ -3,8 +3,10 @@
     float: left;
     font-size: 1rem;
     padding: 2%;
-    width: 25%;
-    box-sizing: border-box;
+    width: 21%;
+    box-sizing:border-box;
+    margin: 2%;
+    
 
 }
 .bio-wrapper{
